@@ -1,3 +1,5 @@
-#Git Sandbox for examples
-Este √© um reposit√rio para teste
-N√o considerar os arquivos como finais.
+# Git Sandbox for examples
+
+Este √© um reposiorio para teste.
+
+Nao considerar os arquivos como finais.
